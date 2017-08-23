@@ -1,0 +1,14 @@
+{
+  "name": "webhook-maker",
+  "version": "1.0.0",
+  "description": "Makes webhooks on Box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corey Ghilarducci",
+  "license": "MIT",
+  "dependencies": {
+    "box-node-sdk": "^1.8.0"
+  }
+}
